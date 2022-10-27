@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://www.codewithkumar.ml](https://www.codewithkumar.ml)
 
 - 📫 How to reach me **kumarsrimanta456@gmail.com**
-
+<img width="30%" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif-iamge">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/srimant999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srimant999" height="30" width="40" /></a>
