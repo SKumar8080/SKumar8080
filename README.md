@@ -1,4 +1,4 @@
-<img width="100%" src="ezgif.com-gif-maker.gif" alt="banner-image">
+<img width="100%" height="10%" src="ezgif.com-gif-maker.gif" alt="banner-image">
 <h1 align="center">Hi 👋, I'm SKumar8080</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
