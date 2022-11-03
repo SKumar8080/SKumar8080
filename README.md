@@ -1,6 +1,6 @@
 <img width="90%" align="center" height="10%" src="Srimant.gif" alt="banner-image">
 <h1 align="center">Hi 👋, I'm SKumar8080</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skumar8080&label=Profile%20views&color=0e75b6&style=flat" alt="skumar8080" /> </p>
 
