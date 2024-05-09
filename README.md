@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.srintech.in](https://www.srintech.in)
 
-- 📫 How to reach me **kumarsrimanta456@gmail.com**
+- 📫 How to reach me **info.srimant@yahoo.com**
 <img width="30%" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="gif-iamge">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
