@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skumar8080&" alt="skumar8080" /></p>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=skumar8080)](https://github.com/skumar8080)
+[![Srimant’s github stats](https://github-readme-stats.vercel.app/api?username=skumar8080)](https://github.com/skumar8080)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skumar8080&layout=compact)](https://github.com/skumar8080)
